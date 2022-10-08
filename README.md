@@ -24,7 +24,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=latex)
 - 🔧 &nbsp;
-  ![Intellij IDEA](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Intellij IDEA](https://img.shields.io/badge/-Intellij-IDEA-333333?style=flat&logo=intellij-idea)
   ![DataSpell](https://img.shields.io/badge/-DataSpell-333333?style=flat&logo=dataspell)
 <br/>
 
