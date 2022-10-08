@@ -1,4 +1,4 @@
-<img src="IMG_6424.jpeg">
+<img src="IMG_6571 2.jpeg">
 
 
 <h2> Hey there! I'm Aditya.</h2>
