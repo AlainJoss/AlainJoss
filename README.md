@@ -20,13 +20,10 @@
   ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
   ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
   ![LaTex](https://img.shields.io/badge/-LaTex-000000?style=flat&logo=latex)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-  ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=latex)
 - 🔧 &nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![DataSpell](https://img.shields.io/badge/DataSpell-000000.svg?style=for-the-badge&logo=dataspell&logoColor=white)
-  ![DataSpell](https://img.shields.io/badge/-DataSpell-333333?style=flat&logo=dataspell)
-<br/>
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+![DataSpell](https://img.shields.io/badge/-DataSpell-000000?style=flat&logo=dataspell)
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
