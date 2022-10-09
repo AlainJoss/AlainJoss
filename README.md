@@ -22,6 +22,6 @@
   ![DataSpell](https://img.shields.io/badge/-DataSpell-000000?style=flat&logo=dataspell)
   ![JupyterLab](https://img.shields.io/badge/-JupyterLab-000000?style=flat&logo=jupyterlab)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> Connect with Me </h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alainjoss/)
