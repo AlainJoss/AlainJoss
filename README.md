@@ -6,7 +6,7 @@
 - 😃 &nbsp; Passionate about Data Analytics and stuff.
 - 🌱 &nbsp; Learning about Data Analysis, Software Engeneering, and Machine Learning.
 
-<h3> ⚙️🔬🔭  &nbsp;Tools I work with</h3>
+<h3> 🔬🔭  &nbsp;Tools I work with</h3>
 
 - &nbsp;
   ![R (Statistics)](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
