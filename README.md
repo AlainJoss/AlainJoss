@@ -1,16 +1,12 @@
-<img src="">
-
 <h2> Hi! I'm Alain.</h2>
 
 <h3> About Me </h3>
 
 - 🎓 &nbsp; Studying Business Administration and Computer Science at University of Bern.
+- 😃 &nbsp; Passionate about Data Analytics and stuff.
+- 🌱 &nbsp; Learning about Data Analysis, Software Engeneering, and Machine Learning.
 
-- 🤔 &nbsp; Fell in love with the world of Data.
-
-- 🌱 &nbsp; Learning more about Data Analysis, Software Engeneering, and Machine Learning.
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🔬  &nbsp;Tools I work with</h3>
 
 - 💻 &nbsp;
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
@@ -31,7 +27,4 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/alainjoss/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alain%20Joss%20-blue?style=flat-square&logo=linkedin"></a>
-
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
