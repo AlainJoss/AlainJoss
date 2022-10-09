@@ -17,7 +17,9 @@
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![BigQuery](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+  ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
+  ![LaTex](https://img.shields.io/badge/-LaTex-000000?style=flat&logo=latex)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=latex)
 - 🔧 &nbsp;
