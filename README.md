@@ -23,6 +23,7 @@
 - 🔧 &nbsp;
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 ![DataSpell](https://img.shields.io/badge/-DataSpell-000000?style=flat&logo=dataspell)
+![JupyterLab](https://img.shields.io/badge/-JupyterLab%20IDEA-000000?style=flat&logo=jupyterlab)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
