@@ -19,6 +19,7 @@
 - 🛢 &nbsp;
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![BigQuery](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  [![Gem Version](https://badge.fury.io/rb/google-cloud-bigquery-storage-v1.svg)](https://badge.fury.io/rb/google-cloud-bigquery-storage-v1)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
