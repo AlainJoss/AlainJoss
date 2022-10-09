@@ -6,16 +6,16 @@
 - 😃 &nbsp; Passionate about Data Analytics and stuff.
 - 🌱 &nbsp; Learning about Data Analysis, Software Engeneering, and Machine Learning.
 
-<h3> 🔬🔭  &nbsp;Tools I work with</h3>
+<h3> 🔬🔭⚙️  &nbsp;Tools I work with</h3>
 
-- 💻 &nbsp;
+- &nbsp;
   ![R (Statistics)](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) 
   ![BigQuery](https://img.shields.io/badge/-BigQuery-000000?style=flat&logo=bigquery) 
-- ⚙️ &nbsp;
+-  &nbsp;
   ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 - 🔧 &nbsp;
   ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
