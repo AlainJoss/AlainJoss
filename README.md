@@ -10,13 +10,6 @@
   ![R (Statistics)](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-- &nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) 
-  ![BigQuery](https://img.shields.io/badge/-BigQuery-000000?style=flat&logo=bigquery) 
-- &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-  ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
-  ![DataSpell](https://img.shields.io/badge/-DataSpell-000000?style=flat&logo=dataspell)
 
 <h3> Connect with Me 🤝🏻 &nbsp; </h3>
 
