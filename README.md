@@ -2,7 +2,6 @@
 
 <h3> About Me </h3>
 
-- 🎓 &nbsp; Studying Business Administration and Computer Science at University of Bern.
 - 🌱 &nbsp; Learning about Data Analysis, Software Engeneering, and Machine Learning.
 
 <h3> 🔬🔭  &nbsp;Tools I work with</h3>
