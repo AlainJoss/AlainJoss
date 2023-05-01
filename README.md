@@ -2,7 +2,7 @@
 
 <h3> About Me </h3>
 
-🌱 &nbsp; Passionate about Software Engineering, Machine Learning, and Data Analytics.
+🌱 &nbsp; Passionate about Data Science.
 
 <h3> 🔬🔭 &nbsp;Tools I work with:</h3>
 
