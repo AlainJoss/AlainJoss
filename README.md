@@ -2,4 +2,4 @@
 
 <h3> About Me </h3>
 
-🌱 &nbsp; Passionate about Data Science.
+🌱 &nbsp; Passionate about Data Science and Software Engineering.
